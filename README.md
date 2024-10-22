@@ -1,5 +1,14 @@
 # Vue 3 + TypeScript + Vite
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Игра в карточки "Тренируй память"
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+<img width="1089" alt="Снимок экрана 2024-10-22 в 22 00 34" src="https://github.com/user-attachments/assets/1476da1e-c5a3-4906-bd7e-aa27bfcf7536">
+
+
+
+
+<img width="1036" alt="Снимок экрана 2024-10-22 в 22 00 56" src="https://github.com/user-attachments/assets/859d0e3a-920a-400f-9a1e-054385a0c7de">
+
+
+
+Чтобы поиграть, перейдите по ссылке: https://memory-game-test-omega.vercel.app/
